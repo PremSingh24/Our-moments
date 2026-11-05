@@ -162,7 +162,7 @@ export default function Home() {
         ref={audioRef}
         loop
         preload="auto"
-        src="https://cdn.pixabay.com/audio/2022/10/25/audio_946b6c6c6b.mp3"
+        src="/picshore-timeless-affection.mp3"
       />
 
       <div className="ambient">
