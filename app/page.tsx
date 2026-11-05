@@ -12,9 +12,9 @@ import {
 
 const photos = [
   "/IMG-20261101-WA0010.jpg",
-  "/IMG-20261101-WA0029.jpg",
-  "/IMG-20261101-WA0034.jpg",
-  "/IMG-20261101-WA0038.jpg",
+  "/IMG-20261102-WA0029.jpg",
+  "/IMG-20261102-WA0034.jpg",
+  "/IMG-20261102-WA0038.jpg",
   "https://ourmoments.live/wp-content/uploads/om-photos/om_2697779c5f492932f1880bd8d0d24715_1793873592.webp"
 ];
 
