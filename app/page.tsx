@@ -11,10 +11,10 @@ import {
 } from "lucide-react";
 
 const photos = [
-  "https://ourmoments.live/wp-content/uploads/om-photos/om_9607222155d2c2d2ff62f8e9b2f7ea21_1793873551.webp",
-  "https://ourmoments.live/wp-content/uploads/om-photos/om_1099737fb67fb963d26e44b8090b6f2e_1793873551.webp",
-  "https://ourmoments.live/wp-content/uploads/om-photos/om_7efbfb3581e9d3ec394afc4647d12f07_1793873551.webp",
-  "https://ourmoments.live/wp-content/uploads/om-photos/om_fc9808b8fabdaffe415aef0888266921_1793873551.webp",
+  "/IMG-20261101-WA0010.jpg",
+  "/IMG-20261101-WA0029.jpg",
+  "/IMG-20261101-WA0034.jpg",
+  "/IMG-20261101-WA0038.jpg",
   "https://ourmoments.live/wp-content/uploads/om-photos/om_2697779c5f492932f1880bd8d0d24715_1793873592.webp"
 ];
 
